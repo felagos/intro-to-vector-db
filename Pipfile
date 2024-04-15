@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+pinecone-client = "*"
 
 [dev-packages]
 
